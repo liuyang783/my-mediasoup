@@ -1,0 +1,8 @@
+[wrap-file]
+directory = Catch2-2.13.7
+source_filename = Catch2-2.13.7.zip
+patch_filename = catch2_2.13.7-1_patch.zip
+
+[provide]
+catch2 = catch2_dep
+

@@ -1,0 +1,6 @@
+[wrap-file]
+directory = usrsctp-4e06feb01cadcd127d119486b98a4bd3d64aa1e7
+source_filename = usrsctp-4e06feb01cadcd127d119486b98a4bd3d64aa1e7.zip
+
+[provide]
+usrsctp = usrsctp_dep

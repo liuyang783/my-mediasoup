@@ -1,0 +1,6 @@
+[wrap-file]
+directory = libsrtp-2.4.2
+source_filename = libsrtp-2.4.2.zip
+
+[provide]
+libsrtp2 = libsrtp2_dep

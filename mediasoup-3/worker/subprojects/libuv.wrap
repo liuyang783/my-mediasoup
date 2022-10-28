@@ -1,0 +1,7 @@
+[wrap-file]
+directory = libuv-v1.44.1
+source_filename = libuv-v1.44.1.tar.gz
+patch_filename = libuv_1.44.1-1_patch.zip
+
+[provide]
+libuv = libuv_dep

@@ -1,0 +1,10 @@
+[wrap-file]
+directory = openssl-3.0.2
+source_filename = openssl-3.0.2.tar.gz
+patch_filename = openssl_3.0.2-1_patch.zip
+
+[provide]
+libcrypto = libcrypto_dep
+libssl = libssl_dep
+openssl = openssl_dep
+
