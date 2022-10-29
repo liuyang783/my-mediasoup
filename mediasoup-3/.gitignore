@@ -44,3 +44,4 @@
 # Meson.
 /worker/subprojects/*
 !/worker/subprojects/*.wrap
+!/worker/subprojects/packagefiles
